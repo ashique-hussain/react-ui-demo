@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Demo
-['react-ui-demo'](https://react-ui-demo.vercel.app/)
+[react-ui-demo - Ecommerce product ui](https://react-ui-demo.vercel.app/)
 
 ## Getting Started
 
