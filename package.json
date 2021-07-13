@@ -5,7 +5,6 @@
   "scripts": {
     "dev:debug": "NODE_OPTIONS='--inspect' next dev",
     "dev": "next dev",
-    "prebuild": "npm run format",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
