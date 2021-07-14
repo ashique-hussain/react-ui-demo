@@ -19,7 +19,7 @@ const Footer = () => {
 	return (
 		<footer>
 			<Box className={classes.copyright} py={1} mt={2} textAlign='center'>
-				<Typography>Copyright &copy; 2021 | Nextjs-TypeScript-Boilerplate</Typography>
+				<Typography>Copyright &copy; 2021 | Ecommerce Product UI | Ashique Hussain</Typography>
 			</Box>
 		</footer>
 	);
