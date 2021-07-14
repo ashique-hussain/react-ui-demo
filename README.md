@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Demo
 
-['react-ui-demo'](https://react-ui-demo.vercel.app/)
+[react-ui-demo - Ecommerce product ui](https://react-ui-demo.vercel.app/)
 
 ## Getting Started
 
